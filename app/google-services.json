@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "991539935634",
+    "firebase_url": "https://technicaltest-2d32d.firebaseio.com",
+    "project_id": "technicaltest-2d32d",
+    "storage_bucket": "technicaltest-2d32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991539935634:android:7fb16d55973ccc80",
+        "android_client_info": {
+          "package_name": "com.test.techincaltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991539935634-271u7jgatjet7ks2custrmobrdfa2eam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_-gBx9k3gANlFuYhEqn9MmFmW7TCjw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

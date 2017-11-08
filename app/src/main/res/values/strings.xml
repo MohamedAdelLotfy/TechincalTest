@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TechincalTest</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+
+    <string name="etForget">Enter Your Mail</string>
+    <string name="btnReset">Reset Password</string>
+
+    <string name="txtHeader">My Profile</string>
+
+    <string name="txtHomeTitle">You need to login</string>
+    <string name="txtHomeContent">Don’t worry about the visa We can gurantee it for youDon’t worry about the visa We can gurantee it for you</string>
+    <string name="btnHome">Login Or Register</string>
+
+    <string name="txtLogin">Login</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPassword">Password</string>
+    <string name="txtForget">Forget Password?</string>
+    <string name="txtRegisterTitle">You don’t have an account ?</string>
+    <string name="txtRegister">Register !</string>
+
+    <string name="btnLogout">Logout</string>
+
+    <string name="txtNext">Next</string>
+
+    <string name="txtFName">First Name</string>
+    <string name="txtCAddress">Current Address</string>
+    <string name="txtmNationality">Mother Nationality</string>
+    <string name="txtEngDate">Engagement Date</string>
+    <string name="txtLName">Last Name</string>
+    <string name="txtContactNum">Contact Number</string>
+    <string name="txtMStatus">Marital Status</string>
+    <string name="txtEmpName">Employer Name</string>
+    <string name="txtConfirm">Confirm Password</string>
+    <string name="btnRegister">Finish</string>
+    <string name="txtNationality">Nationality</string>
+    <string name="txtPBirth">Place of Birth</string>
+    <string name="txtPIssue">Place of Issue</string>
+    <string name="txtExpDate">Pass. Expiry Date</string>
+    <string name="txtCidNumber">CID Number</string>
+    <string name="txtPNumber">Pass. Number</string>
+    <string name="txtDBirth">Date of Birth</string>
+    <string name="txtPIssueDate">Pass. Issue Date</string>
+
+    <string name="txtPassportCopy">Passport Copy</string>
+    <string name="txtCICopy">Civil ID Copy</string>
+    <string name="txtRCopy">Residence Copy</string>
+    <string name="txtOtherD">Other Document</string>
+
+    <string name="txtConnection">Please Check your internet Connection</string>
+
+</resources>
